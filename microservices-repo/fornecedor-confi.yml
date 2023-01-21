@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    password: root
-    username: root
-    url: jdbc:mysql://localhost:7070/fornecedor
-  jpa:
-    hibernate:
-      ddl-auto: update
